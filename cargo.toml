@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "chainbridge",
+    "chainbridge-transfer",
+    "chainbridge-transfer/chainbridge-erc721",
+]
